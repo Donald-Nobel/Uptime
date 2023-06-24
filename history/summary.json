@@ -22,7 +22,7 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1994,
     "timeMonth": 2051,
     "timeYear": 2051,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-24": 0
+    }
   }
 ]
