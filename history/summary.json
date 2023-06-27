@@ -4,19 +4,19 @@
     "url": "https://app.dforce.network",
     "icon": "https://icons.duckduckgo.com/ip3/app.dforce.network.ico",
     "slug": "d-force",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 2024,
-    "timeWeek": 1109,
-    "timeMonth": 1014,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 996,
+    "timeDay": 1598,
+    "timeWeek": 1068,
+    "timeMonth": 996,
+    "timeYear": 996,
     "dailyMinutesDown": {
-      "2023-06-27": 0
+      "2023-06-27": 16
     }
   },
   {
